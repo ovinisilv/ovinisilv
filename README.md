@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi devs! Welcome to my profile! 👋
+# Hi devs! Welcome to my profile!
 
 ## I'm Vinicius Silva de Barros
 
@@ -52,13 +52,13 @@ Computer Science Fundamentals
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 Feel free to reach out and connect!
 
 ---
 
-### 💡 Motto
+###
 
 > "Always learning, always building."
 
